@@ -1,0 +1,6 @@
+2025-09-02 16:56:11,658 - fastapi - WARNING - email-validator not installed, email fields will be treated as str.
+To install, run: pip install email-validator
+2025-09-02 16:56:50,473 - app.services.order_service - INFO - Initialized 8 sample orders
+2025-09-02 16:56:50,484 - app.routers.orders - INFO - Retrieved 8 orders (page 1)
+2025-09-02 17:06:23,411 - app.services.order_service - INFO - Initialized 8 sample orders
+2025-09-02 17:06:23,421 - app.routers.orders - INFO - Retrieved 8 orders (page 1)
