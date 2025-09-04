@@ -6,7 +6,7 @@
 
 ## Professional Portfolio Project by Amer Almohammad
 
-[![CI/CD Pipeline](https://github.com/AmerAlmohd/cloud-omnichannel-solution/workflows/CI/badge.svg)](https://github.com/AmerAlmohd/cloud-omnichannel-solution/actions)
+[![CI/CD Pipeline](https://github.com/AJ-Almohammad/cloud-omnichannel-solution/workflows/CI/badge.svg)](https://github.com/AJ-Almohammad/cloud-omnichannel-solution/actions)
 [![AWS Ready](https://img.shields.io/badge/AWS-Ready-orange.svg)](https://aws.amazon.com/)
 [![Docker](https://img.shields.io/badge/Docker-Supported-blue.svg)](https://docker.com)
 [![React](https://img.shields.io/badge/React-18-blue.svg)](https://reactjs.org/)
