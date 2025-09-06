@@ -12,15 +12,11 @@
 [![React](https://img.shields.io/badge/React-18-blue.svg)](https://reactjs.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-Latest-green.svg)](https://fastapi.tiangolo.com/)
 
-> **A comprehensive cloud-native omnichannel solution demonstrating enterprise-level architecture skills for the Junior Solution Architect role.**
+> **A comprehensive cloud-native omnichannel solution demonstrating enterprise-level architecture skills for the Junior Solution Architect.**
 
 This project showcases advanced full-stack development, cloud architecture, and DevOps practices through a real-world e-commerce order management system that spans multiple sales channels. Built with modern technologies and following industry best practices.
 
 ## 🎯 Project Overview
-
-### **Target Role: Junior Solution Architect (m/w/d)**
-**Company:** Positive Minds (Leipzig, Germany)  
-**Application:** Open Position
 
 This project directly addresses the key requirements from the job description:
 
